@@ -1,2 +1,10 @@
 “This is a dummy text.”
+Few segments are being changed.
+Trying to get the conflicts here.
+Let us see.
+We will push the changes from another collaborator here itself.
 Adding the text for raising a pull request.
+Few segments are being changed.
+Trying to get the conflicts here.
+Let us see.
+We will push the changes from another collaborator here itself.
