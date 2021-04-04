@@ -1,2 +1,5 @@
 “This is a dummy text.”
+Adding teh changes in another collaborater.
 Adding the text for raising a pull request.
+Trying to generate the conflicts.
+Let us see.
